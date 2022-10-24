@@ -1,4 +1,4 @@
-This folder containC programming tasks based on
+This folder contains C programming tasks based on
 	keyword indentifiers
 	Integers
 	Arithmetic operators in C
