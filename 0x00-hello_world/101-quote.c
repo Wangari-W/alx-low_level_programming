@@ -3,8 +3,8 @@
 
 /**
  *main - Entry point
- *description: prints "and that piece of art is useful"
-	- Dore Korpar, 2015-10-19\n" to standard error.
+ *prints "and that piece of art is useful" - Dore Korpar, 2015-10-19\n"
+ *to standard error.
  *Return: Always 1
  */
 
